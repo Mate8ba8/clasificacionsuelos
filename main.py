@@ -1,4 +1,1 @@
-from functions.cartadeplasticidad import cartaPlasticidad
-
-
-cartaPlasticidad(12,10)
+from funciones.Clasificacion import *
